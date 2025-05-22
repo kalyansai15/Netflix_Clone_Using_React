@@ -1,13 +1,82 @@
-# Netflix_Clone_Using_React
-# React + Vite
+# Netflix Clone Using React & Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Netflix Clone Banner](https://your-image-link.com/banner.png)
 
-Currently, two official plugins are available:
+A modern Netflix clone built with React.js and Vite, featuring a responsive UI, dynamic movie browsing, and trailer previews.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Experience the live application here:
+
+👉 [https://kalyansai15.github.io/Netflix_Clone_Using_React](https://kalyansai15.github.io/Netflix_Clone_Using_React)
+
+---
+
+## 📌 Project Overview
+
+This project replicates the Netflix interface using React and Vite, focusing on performance and scalability. It allows users to browse trending movies, view trailers, and enjoy a seamless streaming experience.
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js**: For building the user interface.
+- **Vite**: A fast build tool for modern web projects.
+- **TMDB API**: To fetch movie data.
+- **React Router**: For navigation.
+- **React YouTube**: To display trailers.
+- **CSS Modules**: For scoped styling.
+
+---
+
+## ⚙️ Features
+
+- **Responsive Design**: Optimized for both desktop and mobile views.
+- **Dynamic Movie Listings**: Categorized by genres like Trending, Top Rated, etc.
+- **Trailer Previews**: Click on a movie to watch its trailer.
+- **Search Functionality**: Find movies by title.
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+src/
+├── components/
+│ ├── Banner/
+│ ├── Navbar/
+│ └── Row/
+├── hooks/
+├── App.js
+└── index.js
+```
+
+## 🧪 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/kalyansai15/Netflix_Clone_Using_React.git
+cd Netflix_Clone_Using_React
+```
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+### 3. Run the Development Server
+
+```bash
+npm run dev
+```
+Open your browser and navigate to http://localhost:5173 to view the application.
+
+## 📸 Screenshots
+
+## 📢 Acknowledgments
+
+- **TMDB API: For providing movie data.
+- **React & Vite: For building the application.
+- **React YouTube: For embedding trailers.
