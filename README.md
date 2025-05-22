@@ -76,7 +76,10 @@ Open your browser and navigate to http://localhost:5173 to view the application.
 ## 📸 Screenshots
 
 Login In Page
+
 ![image](/Screenshots/image.png)
+
+Home Page
 ![image](/Screenshots/image2.png)
 ![image](/Screenshots/image3.png)
 
