@@ -75,6 +75,8 @@ Open your browser and navigate to http://localhost:5173 to view the application.
 
 ## 📸 Screenshots
 
+Login In Page
+![image](/Screenshots/image.png)
 ## 📢 Acknowledgments
 
 - **TMDB API: For providing movie data.
