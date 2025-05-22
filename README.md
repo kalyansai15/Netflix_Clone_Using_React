@@ -85,6 +85,5 @@ Home Page
 
 ## 📢 Acknowledgments
 
-- **TMDB API: For providing movie data.
-- **React & Vite: For building the application.
-- **React YouTube: For embedding trailers.
+- TMDB API: For providing movie data.
+- React & Vite: For building the application.
