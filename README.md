@@ -6,14 +6,6 @@ A modern Netflix clone built with React.js and Vite, featuring a responsive UI, 
 
 ---
 
-## 🚀 Live Demo
-
-Experience the live application here:
-
-👉 [https://kalyansai15.github.io/Netflix_Clone_Using_React](https://kalyansai15.github.io/Netflix_Clone_Using_React)
-
----
-
 ## 📌 Project Overview
 
 This project replicates the Netflix interface using React and Vite, focusing on performance and scalability. It allows users to browse trending movies, view trailers, and enjoy a seamless streaming experience.
