@@ -1,6 +1,6 @@
-# Netflix Clone Using React & Vite
+![image](https://github.com/user-attachments/assets/4e004576-7dd5-4df3-a7d3-c5e1f3e744f7)# Netflix Clone Using React & Vite
 
-![Netflix Clone Banner](https://images.icon-icons.com/3053/PNG/512/netflix_macos_bigsur_icon_189917.png)
+![Netflix Clone Banner](![image](https://github.com/user-attachments/assets/a222ffd7-04cb-42e3-9196-334272cad528))
 
 A modern Netflix clone built with React.js and Vite, featuring a responsive UI, dynamic movie browsing, and trailer previews.
 
